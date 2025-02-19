@@ -3,8 +3,6 @@
 <h3>- 🌱 I’m currently involved with Projects that can be deployed</h3>
 <h3>- 📫 How to reach me? well you can reach me on "adnan.ajaberi@gmail.com"</h3>
 <h3>- ⚡ Fun fact: Everything is linked to something</h3>
-<h3>A passionate frontend developer</h3>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
